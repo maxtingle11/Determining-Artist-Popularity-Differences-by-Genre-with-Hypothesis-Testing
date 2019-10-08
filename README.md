@@ -14,7 +14,7 @@ Then we asked two research questions:
 1) Do artists' popularity scores differ significantly by genre?
 2) Do artists' follower counts differ significantly by genre?
 
-For each question, we followed the same approach for the popularity score and follower count metrics.
+For each question, we followed the same statistical approach for the popularity score and follower count metrics.
 1. We took a sample from each genre. 
 2. Performed an ANOVA test to determine whether the genre means are all equal.
 3. Performed a Tukey's HSD (honestly significant difference) test to find genre means that are significantly different from eachother.
