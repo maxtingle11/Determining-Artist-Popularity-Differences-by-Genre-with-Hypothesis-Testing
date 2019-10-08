@@ -2,9 +2,9 @@
 
 ## Project Members:
 
-Daniel Torres
+**Data Scientists** - Daniel Torres & Max Tingle
 
-Max Tingle
+**Flatiron School** - Data Science Fellowship Module 2 Project
 
 ## Project Goals:
 
