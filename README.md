@@ -1,4 +1,4 @@
-# MOD-3-SPOTIFY
+# Statistical Tests Project with Spotify Artist Data
 
 ## Project Members:
 
