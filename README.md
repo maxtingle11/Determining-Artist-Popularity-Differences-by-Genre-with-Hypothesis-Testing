@@ -51,7 +51,7 @@ For each question, we followed the same statistical approach for the popularity 
 
   - **visualizations.p:y**
 
-- **images:** (folder containing exported images from technical notebooks)
+- **images:** folder containing exported images from technical notebooks
 
 
 ## Responsibilities:
