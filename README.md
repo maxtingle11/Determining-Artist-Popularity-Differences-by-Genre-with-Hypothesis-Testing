@@ -1,4 +1,4 @@
-# Statistical Tests Project with Spotify Artist Data
+# Determining Artist Popularity Differences by Genre with Hypothesis Testing
 
 ## Project Members:
 
