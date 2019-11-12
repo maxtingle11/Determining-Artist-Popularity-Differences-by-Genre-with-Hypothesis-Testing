@@ -1,4 +1,4 @@
-# Determining Artist Popularity Differences by Genre with Hypothesis Testing
+# Using Hypothesis Testing to Determining Artist Popularity Differences by Genre
 
 ## Project Members:
 
